@@ -1,0 +1,47 @@
+.container{
+    border: 3px solid; border-radius: 15px;
+    height: fit-content; width: 500px;
+    margin: auto;
+}
+.box{
+    border: 1px solid; border-radius: 15px;
+    height: 75px; width: 75px;
+    display: flex; justify-content: center;
+}
+button{
+    font-size: 2em;
+    margin: 5px;
+}
+label{
+    float: left;
+    font-family: Verdana;
+    margin-right: 25px;
+}
+img{
+    height: 100px; width: 100px;
+}
+#kendrick-div{
+    position: absolute; transform: translateX(-250px);
+}
+#_41gold-div{
+    transform: translateX(100px);
+}
+h3{
+    position: absolute;
+}
+#h3Num1{
+    transform: translate(150px, -100px);
+}
+#h3Num2{
+    transform: translate(400px, -100px);
+}
+#potions{
+    height: fit-content; width: fit-content;
+    margin-left: 60vh;
+}
+#luck_potion_kenidh{
+    display: none;
+}
+#luck_potion_41dih{
+    display: none;
+}
